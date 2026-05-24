@@ -1,0 +1,10 @@
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+.Rhistory
+.RData
+.Rproj.user/
+EOF
